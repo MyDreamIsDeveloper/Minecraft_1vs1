@@ -1,0 +1,7 @@
+name: Utility
+main: com.windows.Utility.Utility
+version: 1.0
+commands:
+  대전:
+  관전:
+  대전시스템:
